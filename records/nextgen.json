@@ -6,8 +6,8 @@
    },
    "record": [
       {
-         "type": "A",
-         "value": "198.20.0.34"
+         "type": "CNAME",
+         "value": "andy1020-free.hf.space"
       }
    ]
 }
