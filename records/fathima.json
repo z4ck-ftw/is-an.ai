@@ -1,0 +1,13 @@
+{
+   "description": "",
+   "owner": {
+      "github_username": "z4ck-ftw",
+      "email": "kmczackyt@gmail.com"
+   },
+   "record": [
+      {
+         "type": "CNAME",
+         "value": "aswathy.vercel.app"
+      }
+   ]
+}
